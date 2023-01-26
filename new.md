@@ -5,3 +5,5 @@
 . so this is after new test
 
 . let's see how it goes
+
+. this is without git lense
